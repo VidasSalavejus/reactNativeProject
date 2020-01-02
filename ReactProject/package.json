@@ -10,8 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/cli-platform-android": "3.0.3",
+    "firebase": "^7.6.1",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "^0.61.5",
+    "react-native-sqlite-storage": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
