@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44cd088-9f79-4965-9a61-75af4b63821b" name="Default Changelist" comment="" />
+    <list default="true" id="c44cd088-9f79-4965-9a61-75af4b63821b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ReactProject/.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/__tests__/App-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/build_defs.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/assets/sqlitedb.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/java/com/reactproject/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/java/com/reactproject/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/components/addTodo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/components/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/components/todoItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject-tvOS/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject-tvOSTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject.xcodeproj/xcshareddata/xcschemes/ReactProject-tvOS.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject.xcodeproj/xcshareddata/xcschemes/ReactProject.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProject/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProjectTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/ios/ReactProjectTests/ReactProjectTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReactProject/yarn.lock" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +73,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -30,8 +94,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -44,11 +108,6 @@
               <item name="reactNativeProject" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="reactNativeProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reactNativeProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ReactProject" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -57,7 +116,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ReactProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Projektas1/android" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -87,23 +146,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32982087" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32982087" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
     </layout>
   </component>
   <component name="editorHistoryManager">
